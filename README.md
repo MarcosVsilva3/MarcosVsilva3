@@ -3,6 +3,7 @@
 <div> 
  <a href="https://github.com/MarcosVsilva3/MarcosVsilva3">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosVsilva3&show_icons=true&theme=tokyonight" />
+   <img align="right" alt="the-office" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVubThuMzFkMzJqOHlvcGUwYThmMGp5aW9vZWwxbmR4NzV0enJwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0MHgWp8xxjdd0TW0n6/giphy.webp">
 </a>
   
 </div>
@@ -16,6 +17,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+ 
 </div>
 
   ##
