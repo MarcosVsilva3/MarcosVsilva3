@@ -1,5 +1,13 @@
 ## Oii eu sou o Marcos Vinicius, analista de redes e ciber segurança.
 
+<div> 
+ <a href="https://github.com/MarcosVsilva3/MarcosVsilva3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosVsilva3&show_icons=true&theme=tokyonight" />
+</a>
+  
+</div>
+
+  ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
