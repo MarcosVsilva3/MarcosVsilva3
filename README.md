@@ -3,7 +3,7 @@
 <div> 
  <a href="https://github.com/MarcosVsilva3/MarcosVsilva3">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosVsilva3&show_icons=true&theme=tokyonight" />
-   <img align="right" alt="the-office" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNrdHBjajU0azhyY3Z0ODJpbm5ydTd6ZXdveWY2MWRsYmZjaHZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UjCXeFnYcI2R2/giphy.webp">
+   <img align="center" alt="the-office" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNrdHBjajU0azhyY3Z0ODJpbm5ydTd6ZXdveWY2MWRsYmZjaHZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UjCXeFnYcI2R2/giphy.webp">
 </a>
   
 </div>
