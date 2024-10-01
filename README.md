@@ -1,4 +1,4 @@
-## Oii eu sou o Marcos Vinicius, analista de redes e ciber segurança.
+## Olá eu sou o Marcos Vinicius, analista de redes e ciber segurança.
 
 <div> 
  <a href="https://github.com/MarcosVsilva3/MarcosVsilva3">
