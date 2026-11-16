@@ -6,7 +6,7 @@ Analista de redes e cibersegurança. Este GitHub é o meu portfólio: aqui publi
 - Segurança da informação e hardening de sistemas
 - Redes de computadores e infraestrutura
 - Automação com scripts (Bash, PowerShell, Python)
-- Hardware hacking e IoT (ESP32, Arduino, infravermelho)
+- Hardware hacking: rádio frequência (SDR e Sub-GHz), RFID/NFC, BadUSB e IoT
 
 ### 🧰 Tecnologias
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -15,6 +15,15 @@ Analista de redes e cibersegurança. Este GitHub é o meu portfólio: aqui publi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🔧 Laboratório de hardware
+| Equipamento | Uso |
+|---|---|
+| HackRF | SDR de 1 MHz a 6 GHz: análise, captura e replay de sinais de rádio |
+| Proxmark3 | Pesquisa em RFID/NFC (LF 125 kHz e HF 13,56 MHz) |
+| LilyGO T-Embed CC1101 | Sub-GHz, infravermelho, Wi-Fi e Bluetooth em um dispositivo ESP32 portátil |
+| Digispark (ATtiny85) | Prototipagem de payloads BadUSB / HID |
+| ESP32 e Arduino | Prototipagem de dispositivos e ferramentas de IoT |
 
 ### 🎓 Certificações
 Em andamento. Em breve por aqui.
